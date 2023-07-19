@@ -1,0 +1,148 @@
+.img__inicial {
+    width: 1280px;
+    height: 600px;
+    margin-left: 80px;
+    margin-bottom: 115px;
+    margin-top: 50px;
+}
+
+main {
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.section {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    width: 350px;
+    height: 496px;
+    margin-right: 125px;
+}
+
+.section h1 {
+    line-height: 42px;
+    letter-spacing: -0.357143px;
+    font-family: 'Ibarra Real Nova', serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    color: #33323D;
+}
+
+.section p {
+    font-family: 'Public Sans', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+    color: #33323D;
+    mix-blend-mode: normal;
+    opacity: 0.8;
+}
+
+.section h3 {
+    font-family: 'Public Sans' sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 30px;
+    color: #5FB4A2;
+}
+
+.section button {
+    height: 48px;
+    width: 178px;
+    border: 1px solid #33323D;
+    font-family: 'Public Sans' sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    background-color: white;
+    color: #33323D;
+}
+
+.article {
+    display: flex;
+    flex-direction: column;
+    width: 635px;
+    height: 1192px;
+}
+
+.article h1 {
+    margin-bottom: 28px;
+    font-family: 'Ibarra Real Nova', serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 42px;
+    letter-spacing: -0.285714px;
+    color: #33323D;
+}
+
+.article p {
+    margin-bottom: 40px;
+    font-family: 'Public Sans', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 30px;
+    color: #33323D;
+    mix-blend-mode: normal;
+    opacity: 0.8;
+}
+
+
+.article img {
+    height: 400px;
+    width: 635px;
+    margin-bottom: 32px;
+}
+
+.nav {
+    justify-content: space-between;
+    width: 1280px;
+    display: flex;
+    margin-top: 64px;
+    margin-left: 80px;
+    border-top: 1px solid #DCDCDE;
+    border-bottom: 1px solid #DCDCDE;
+    padding: 32px;
+}
+
+.mudar {
+    display: flex;
+    align-items: center;
+
+}
+
+.escrito {
+    display: flex;
+    flex-direction: column;
+    margin: 0 32px;
+}
+
+.mudar h1 {
+    font-family: 'Ibarra Real Nova', serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 36px;
+    letter-spacing: -0.285714px;
+    color: #33323D;
+}
+
+.mudar span {
+    font-family: 'Public Sans', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+    color: #33323D;
+    mix-blend-mode: normal;
+    opacity: 0.5;
+}

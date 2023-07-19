@@ -1,0 +1,215 @@
+.manage {
+    display: flex;
+    height: 500px;
+    margin: 100px;
+}
+
+.manage img {
+    width: 560px;
+    margin-right: 225px;
+}
+
+.manage__content {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    width: 350px;
+    border-top: 1px solid #DCDCDE;
+    border-bottom: 1px solid #DCDCDE;
+}
+
+.manage__content h1 {
+    font-family: 'Ibarra Real Nova', serif;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 40px;
+    line-height: 42px;
+    letter-spacing: -0.357143px;
+    color: #33323D;
+}
+
+.manage__content p {
+    font-family: 'Public Sans', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+    mix-blend-mode: normal;
+    opacity: 0.8;
+    color: #33323D;
+}
+
+.manage__content button {
+    width: 204px;
+    height: 48px;
+    border: 1px solid #33323D;
+    background-color: white;
+
+}
+
+.manage__content button:active {
+    border: 1px solid #5FB4A2;
+    color: #5FB4A2;
+}
+
+.bookMark {
+    display: flex;
+    height: 500px;
+    margin: 100px;
+}
+
+
+.bookMark__content {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    width: 350px;
+    margin-right: 225px;
+    border-top: 1px solid #DCDCDE;
+    border-bottom: 1px solid #DCDCDE;
+}
+
+.bookMark__content h1 {
+    font-family: 'Ibarra Real Nova', serif;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 40px;
+    line-height: 42px;
+    letter-spacing: -0.357143px;
+    color: #33323D;
+}
+
+.bookMark__content p {
+    font-family: 'Public Sans', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+    color: #33323D;
+    mix-blend-mode: normal;
+    opacity: 0.8;
+}
+
+.bookMark__content button {
+    width: 204px;
+    height: 48px;
+    border: 1px solid #33323D;
+    background-color: white;
+
+}
+
+.bookMark__content button:active {
+    border: 1px solid #5FB4A2;
+    color: #5FB4A2;
+}
+
+.bookMark img {
+    width: 560px;
+}
+
+.insure {
+    display: flex;
+    height: 500px;
+    margin: 100px;
+}
+
+.insure img {
+    width: 560px;
+    margin-right: 225px;
+}
+
+.insure__content {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    border-top: 1px solid #DCDCDE;
+    border-bottom: 1px solid #DCDCDE;
+    width: 350px;
+}
+
+.insure__content h1 {
+    font-family: 'Ibarra Real Nova', serif;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 40px;
+    line-height: 42px;
+    letter-spacing: -0.357143px;
+    color: #33323D;
+}
+
+.insure__content p {
+    font-family: 'Public Sans', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+    color: #33323D;
+    mix-blend-mode: normal;
+    opacity: 0.8;
+}
+
+.insure__content button {
+    width: 204px;
+    height: 48px;
+    border: 1px solid #33323D;
+    background-color: white;
+}
+
+.insure__content button:active {
+    border: 1px solid #5FB4A2;
+    color: #5FB4A2;
+}
+
+.fylo {
+    display: flex;
+    height: 500px;
+    margin: 100px;
+}
+
+
+.fylo__content {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    width: 350px;
+    margin-right: 225px;
+    border-top: 1px solid #DCDCDE;
+    border-bottom: 1px solid #DCDCDE;
+}
+
+.fylo__content h1 {
+    font-family: 'Ibarra Real Nova', serif;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 40px;
+    line-height: 42px;
+    letter-spacing: -0.357143px;
+    color: #33323D;
+}
+
+.fylo__content p {
+    font-family: 'Public Sans', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+    color: #33323D;
+    mix-blend-mode: normal;
+    opacity: 0.8;
+}
+
+.fylo__content button {
+    width: 204px;
+    height: 48px;
+    border: 1px solid #33323D;
+    background-color: white;
+}
+
+.fylo__content button:active {
+    border: 1px solid #5FB4A2;
+    color: #5FB4A2;
+}
+
+.fylo img {
+    width: 560px;
+}

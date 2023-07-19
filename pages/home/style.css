@@ -1,0 +1,123 @@
+.Home__container {
+    display: flex;
+    align-items: flex-end;
+    min-width: 1110px;
+    height: 600px;
+    background-image: url(../../assets/home/image-homepage-hero.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin: 38px 100px 100px 100px;
+}
+
+.Home__content {
+    display: flex;
+    flex-direction: column;
+    align-items: initial;
+    justify-content: center;
+    background-color: white;
+    width: 445px;
+    height: 357px;
+}
+
+.Home__content h1 {
+    margin: 0 27px;
+    font-family: 'Ibarra Real Nova', serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 50px;
+    letter-spacing: -0.446429px;
+    color: #33323D;
+}
+
+.Home__content button {
+    display: flex;
+    align-items: center;
+    height: 48px;
+    width: 200px;
+    border: none;
+    position: relative;
+    top: 80px;
+    font-family: 'Public Sans', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    text-align: center;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    background-color: #203A4C;
+    cursor: pointer;
+}
+
+.Home__content button:active {
+    height: 58px;
+    width: 220px;
+    font-size: 15px;
+
+}
+
+.Home__contentBtn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 48px;
+    height: 48px;
+    margin-right: 33px;
+    background-color: #1D3444;
+}
+
+main {
+    display: flex;
+    margin: 0 100px;
+}
+
+main img {
+    width: 540px;
+    margin-right: 140px;
+}
+
+.Main__Content {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    border-top: 1px solid #DCDCDE;
+    border-bottom: 1px solid #DCDCDE;
+}
+
+.Main__Content h1 {
+    font-family: 'Ibarra Real Nova', serif;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 40px;
+    line-height: 42px;
+    letter-spacing: -0.357143px;
+    color: #33323D;
+}
+
+.Main__Content p {
+    font-family: 'Public Sans', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+    mix-blend-mode: normal;
+    opacity: 0.8;
+    color: #33323D;
+}
+
+.Main__Content button {
+    width: 204px;
+    height: 48px;
+    margin-left: 150px;
+    background-color: white;
+    border: 1px solid #33323D;
+
+}
+
+.Main__Content button:active {
+    border: 1px solid #5FB4A2;
+    color: #5FB4A2;
+}
