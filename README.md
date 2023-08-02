@@ -1,21 +1,9 @@
 ![](https://i.imgur.com/xG74tOh.png)
 
-# Desafio | Front-end - Módulo 2
+# Projeto Modelo de Portifloio
 
-O objetivo deste exercício é replicar o website encontrado no arquivo 'Desafio front academy 1.fig'.
+O objetivo deste projeto é replicar um website que seja um portifolio onde voce mostra os seus projetos e trabalhos para terceiros
 
-## Páginas obrigatórias
-
-- [Home](#Home)
-
-## Páginas opcionais
-
-- [Portfolio](#Portfolio)
-- [Portfolio - 01 - Manage](#Portfolio---01---Manage)
-- [Portfolio - 02 - Bookmark](#Portfolio---02---Bookmark)
-- [Portfolio - 03 - Insure](#Portfolio---03---Insure)
-- [Portfolio - 04 - Fylo](#Portfolio---04---Fylo)
-- [Contato](#Contato)
 
 ### Home
 
@@ -140,7 +128,4 @@ Seções
 
 - Footer ![](https://i.imgur.com/P06m37L.png)
 
-
-**LEMBRE-SE**: Feito é melhor do que perfeito, mas não faça mal feito!!!
-
-###### tags: `front-end` `módulo 2` `HTML` `CSS` `desafio`
+O Projeto foi feito com apenas HTML e CSS.
